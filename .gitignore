@@ -1,0 +1,40 @@
+
+# maven ignore
+target/
+*/target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+*.ear
+
+# idea ignore
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Mac
+.DS_Store
+*/.DS_Store
